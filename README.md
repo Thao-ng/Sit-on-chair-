@@ -1,2 +1,2 @@
 # Sit-on-chair-
-website design using html / css language
+simple website design using html / css language
